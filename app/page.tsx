@@ -18,7 +18,7 @@ export default function Home() {
         live server-side data.&nbsp;
         <Link
           className="underline cursor-pointer"
-          href="https://github.com/get-convex/preloaded-counter"
+          href="https://github.com/convex/preloaded-counter"
         >
           Check out the code on GitHub.
         </Link>
